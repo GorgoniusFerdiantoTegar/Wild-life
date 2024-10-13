@@ -194,7 +194,6 @@
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 5px;
-  text-align: center;
 }
 
 .main-content .main-subline {
@@ -495,7 +494,8 @@
 footer {
   /* border-top: white solid 1px; */
   padding: 4rem 1rem 1.5rem;
-  background-image: linear-gradient(rgba(0, 0, 0, 100%), rgba(0, 0, 0, 75%)), url(../aset/squarejpg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 100%), rgba(0, 0, 0, 75%)),
+    url(../aset/squarejpg.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -594,7 +594,7 @@ footer .footer-bottom {
 }
 
 /* Mobile phone */
-@media (max-width: 615px) {
+@media (max-width: 690px) {
   html {
     font-size: 85%;
   }
