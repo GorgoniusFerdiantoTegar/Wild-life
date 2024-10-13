@@ -639,7 +639,6 @@ footer .footer-bottom {
     display: flex;
     justify-content: center;
     gap: 0.5rem;
-    flex-wrap: nowrap;
   }
 
   .main-content .container-button-filter .filter-btn {
